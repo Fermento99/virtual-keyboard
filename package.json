@@ -1,0 +1,15 @@
+{
+  "name": "virtual-keyboard",
+  "version": "1.0.0",
+  "description": "HTTP server to help you control Netflix when you are too far from your keyboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "virtual-keyboard"
+  },
+  "author": "Fermento99",
+  "license": "ISC"
+}
