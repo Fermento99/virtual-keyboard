@@ -1,0 +1,29 @@
+
+body {
+    background-color: #211F1F;
+}
+
+.button {
+    color: #eee;
+    border: .1em #666 outset
+}
+
+.main {
+    background-color: #D22016;
+}
+
+.extra {
+    background-color: #5F5959;
+}
+
+.volume {
+    background-color: #5F5959;
+}
+
+.timeline {
+    background-color: #5F5959;
+}
+
+.pressed {
+    background-color: #C48225;
+}
